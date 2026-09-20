@@ -3,5 +3,5 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {"start": "node server.js"},
-  "dependencies": {"peerjs-server": "^0.12.8"}
+  "dependencies": {"peerjs-server": "0.13.1"}
 }
